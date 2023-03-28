@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-25T05:51:14 IST" name="Default suite" finished-at="2023-03-25T05:51:14 IST" duration-ms="50">
+    <groups>
+    </groups>
+    <test started-at="2023-03-25T05:51:14 IST" name="Default test" finished-at="2023-03-25T05:51:14 IST" duration-ms="50">
+      <class name="Pratice.Parameters">
+        <test-method signature="m1()[pri:0, instance:Pratice.Parameters@10959ece]" started-at="2023-03-25T05:51:14 IST" name="m1" finished-at="2023-03-25T05:51:14 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+      </class> <!-- Pratice.Parameters -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
